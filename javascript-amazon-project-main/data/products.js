@@ -91,8 +91,8 @@ const products = [
   },
   {
     id: "dd82ca78-a18b-4e2a-9250-31e67412f98d",
-    image: "images/products/plain-hooded-fleece-sweatshirt-yellow.jpg",
-    name: "Plain Hooded Fleece Sweatshirt",
+    image: "images/products/hoodie.jpg",
+    name: "'I Am Kenough' Unisex Hoodie",
     rating: {
       stars: 4.5,
       count: 317
